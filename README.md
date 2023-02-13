@@ -1,4 +1,4 @@
-## RabbitMQ
+## Using RabbitMQ with Node.js
 
 ### Start the consumer
 
