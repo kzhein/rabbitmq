@@ -1,12 +1,12 @@
 ## Using RabbitMQ with Node.js
 
-### Start the consumer
+### Start a consumer
 
 ```
 $ node consumer.js
 ```
 
-### Produce the message
+### Produce a message
 
 ```
 $ node producer.js Hi, Mom!
